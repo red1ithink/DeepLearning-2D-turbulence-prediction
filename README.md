@@ -2,7 +2,7 @@
 Autoregressive rollout with optional Scheduled Sampling
 
 <p align="center">
-  <img src="docs/banner.png" alt="turbulence banner" width="300">
+  <img src="DNS.gif" alt="turbulence banner" width="300">
 </p>
 
 ## Overview
