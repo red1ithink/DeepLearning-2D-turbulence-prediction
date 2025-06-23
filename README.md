@@ -6,7 +6,7 @@ Autoregressive rollout with optional Scheduled Sampling
 </p>
 
 ## Overview
-This repository contains three TensorFlow 2.x training scripts for predicting future vorticity fields in 2-D decaying turbulence:
+This contains three TensorFlow 2.x training scripts for predicting future vorticity fields in 2-D decaying turbulence:
 
 | Script |  ε-schedule | Start ε (epoch 10) | Comment |
 | ------ | ---------- | ------------------ | ------- |
@@ -25,6 +25,15 @@ All models share the same lightweight **ConvLSTM → BN → Conv** backbone and 
 > using 40.0~49.9(100 frames of each cases)
 > Rotaition(90, 180, 270) for data augmentation
 > Normalization: w/w'_0 (w'_0: rms of first voriticity frame of each case)
+
+
+---
+
+---
+
+
+## Hardware
+> Macbook M1 pro 16GB, 2021 Standard Product
 
 
 ---
