@@ -40,7 +40,7 @@ All models share the same lightweight **ConvLSTM → BN → Conv** backbone and 
 
 
 ## References
-(1) Kraichnan, R. H., & Montgomery, D., 1980, Two-dimensional turbulence. Reports on Progress in Physics, 43(5), 547.
-(2) Shi, X., Chen, Z., Wang, H., Yeung, D. Y., Wong, W. K., & Woo, W. C., 2015, Convolutional LSTM network: A machine learning approach for precipitation nowcasting. Advances in neural information processing systems, 28.
-(3) Liu, C., 2025, Convolutional Long Short-Term Memory Neural Networks Based Numerical Simulation of Flow Field.
+(1) Kraichnan, R. H., & Montgomery, D., 1980, Two-dimensional turbulence. Reports on Progress in Physics, 43(5), 547.\
+(2) Shi, X., Chen, Z., Wang, H., Yeung, D. Y., Wong, W. K., & Woo, W. C., 2015, Convolutional LSTM network: A machine learning approach for precipitation nowcasting. Advances in neural information processing systems, 28.\
+(3) Liu, C., 2025, Convolutional Long Short-Term Memory Neural Networks Based Numerical Simulation of Flow Field.\
 (4) Bengio, S., Vinyals, O., Jaitly, N., & Shazeer, N., 2015, Scheduled sampling for sequence prediction with recurrent neural networks. Advances in neural information processing systems, 28.
