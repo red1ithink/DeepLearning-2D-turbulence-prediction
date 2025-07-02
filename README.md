@@ -1,4 +1,4 @@
-A Paper is in docs (English Paper is not included yet)
+A Paper is in docs (English Paper will be uploaded soon)
 # ConvLSTM-based 2-D Turbulence Prediction  
 Autoregressive rollout with optional Scheduled Sampling
 
