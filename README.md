@@ -1,5 +1,5 @@
 A Paper is in docs (English Paper will be uploaded soon)
-# ConvLSTM-based 2-D Turbulence Prediction  
+# ConvLSTM-based Two-Dimensional Turbulence Prediction  
 Autoregressive rollout with optional Scheduled Sampling
 
 <p align="center">
