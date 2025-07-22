@@ -22,9 +22,9 @@ All models share the same lightweight **ConvLSTM → BN → Conv** backbone and 
 
 ## Dataset
 > 50 initial random velocity field cases
-> 6.283 x 6.283 (128 x 128) vorticity field
-> using 40.0~49.9(100 frames of each cases)
-> Rotaition(90, 180, 270) for data augmentation
+> 6.283 x 6.283 (grid: 128 x 128) vorticity field
+> using 40.0~49.9s (100 frames of each cases)
+> Rotaition(0°, 90°, 180°, 270°) for data augmentation
 > Normalization: w/w'_0 (w'_0: rms of first voriticity frame of each case)
 
 
